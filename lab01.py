@@ -1,3 +1,4 @@
+# Luca McCutcheon-Gligoric
 def main():
     cost_per_item = 19.99
     quantity = 5 
